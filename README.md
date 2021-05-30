@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Tharindu Kavishna
-***Mobile Application Developer with Flutter Framework experience 😜
+Mobile Application Developer with Flutter Framework experience 😜
 
-<!--
+
 **tharindu97/tharindu97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+

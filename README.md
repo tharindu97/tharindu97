@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tharindu Kavishna</h1>
-<h3 align="center">Mobile Application Developer with Flutter Framework experience 😜</h3>
+<h3 align="center">A Passionate Web and Mobile Application Developer from Sri Lanka 😜</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tharindu97" alt="tharindu97" /></a> </p>
 
